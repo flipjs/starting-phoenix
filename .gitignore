@@ -1,0 +1,12 @@
+/_build
+/cover
+/deps
+/doc
+/node_modules
+/tmp
+erl_crash.dump
+*.ez
+*.beam
+mix.lock
+*.log
+
